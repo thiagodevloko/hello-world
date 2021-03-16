@@ -1,2 +1,3 @@
 # hello-world
 Repositório para aprender a usar o GitHub, primeiros projetos e testes 
+Aprendendo a usar o github, aprendendo a fazer comit e a forma de postar...
